@@ -21,7 +21,7 @@
   	<url>http://${project.artifactId}.mavenDemo.com</url>
 <!--2.配置本项目GAV-->
   	<groupId>com.mavendemo.blank</groupId>
-  	<artifactId>blank</artifactId>
+  	<artifactId>mavendemo-blank</artifactId>
   	<version>0.0.1-SNAPSHOT</version>
 <!--3.配置依赖-->
   	<dependencies>
